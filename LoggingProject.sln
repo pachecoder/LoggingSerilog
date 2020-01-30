@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingProject", "LoggingProject\LoggingProject.csproj", "{2C7BF102-25BD-4D9D-9325-B6912EA019C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingLibrary", "LoggingLibrary\LoggingLibrary.csproj", "{2A2929B2-BED1-4810-A997-434D7762FF20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C7BF102-25BD-4D9D-9325-B6912EA019C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C7BF102-25BD-4D9D-9325-B6912EA019C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C7BF102-25BD-4D9D-9325-B6912EA019C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C7BF102-25BD-4D9D-9325-B6912EA019C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A2929B2-BED1-4810-A997-434D7762FF20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A2929B2-BED1-4810-A997-434D7762FF20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A2929B2-BED1-4810-A997-434D7762FF20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A2929B2-BED1-4810-A997-434D7762FF20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47419C0F-05E5-4A34-8AB8-340D70E3C19D}
+	EndGlobalSection
+EndGlobal
